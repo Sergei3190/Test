@@ -1,0 +1,7 @@
+E:\Портфолио\Test\Test\Test\bin\Debug\Test.exe.config
+E:\Портфолио\Test\Test\Test\bin\Debug\Test.exe
+E:\Портфолио\Test\Test\Test\bin\Debug\Test.pdb
+E:\Портфолио\Test\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Портфолио\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Портфолио\Test\Test\Test\obj\Debug\Test.exe
+E:\Портфолио\Test\Test\Test\obj\Debug\Test.pdb
