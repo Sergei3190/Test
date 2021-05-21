@@ -21,6 +21,8 @@ namespace Test
             Console.WriteLine("Hello");
             Console.WriteLine("Bye");
 
+            Console.WriteLine("Конфликт");
+
             Console.ReadLine();
         }
 
