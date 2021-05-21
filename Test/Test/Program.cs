@@ -18,6 +18,8 @@ namespace Test
 
             Console.WriteLine();
 
+            Console.WriteLine("!!!!!!!!!!!!!");
+
             Console.WriteLine("Hello");
             Console.WriteLine("Bye");
 
